@@ -1,1 +1,3 @@
 target/surefire-reports/TEST-com.av.joltui.jolt_spec_ui.JoltSpecUiApplicationTests.xml
+app/node_modules/*
+package-lock.json

@@ -1,5 +1,8 @@
-node_modules
+node_modules/
 build/*
 public/robots.txt
 node/*
 target/*
+package-lock.json
+app/package-lock.json
+.DS_Store
